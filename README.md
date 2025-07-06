@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+John+Plaza" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
   <strong>🔧 Developer focused on practical solutions through clean desktop and mobile apps.</strong>
 </p>
@@ -15,7 +14,6 @@
 💡 I enjoy turning ideas into applications - from Desktop GUIs🖥️ to Android UIs📱 supported by SQL databases🗄️.
 
 🔭 Currently building personal apps and learning by doing.
-
 
 
 ---
@@ -37,6 +35,7 @@
   - 💪 Integrated Oracle SQL and MySQL across different app projects
   - 🧩 Light experience with SQL Server, SQLite, PostgreSQL
 
+
 ---
 
 ### 🧱 System Planning & Communication:
@@ -48,6 +47,7 @@
 ---
 
 🌱 Currently improving my web development, SQL, database design, and diagramming skills.
+
 
 ---
 
