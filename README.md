@@ -54,3 +54,5 @@
 ### 📫 Reach Me At
 
 - 📧 [jgplaza.dev@gmail.com](mailto:jgplaza.dev@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jgplaza/)  
+- 
