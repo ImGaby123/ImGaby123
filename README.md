@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <strong>🔧 Developer focused on practical solutions through clean desktop and mobile apps.</strong>
+  <strong>🔧 Developer focused on functional software that solves real problems.</strong>
 </p>
 
 
 ---
 
-🎯 I build effective, functional solutions through desktop and mobile apps.  
+🎯 I build functional software solutions through desktop and mobile apps.  
 
 💡 I enjoy turning ideas into applications - from Desktop GUIs🖥️ to Android UIs📱 supported by SQL databases🗄️.
 
@@ -21,7 +21,7 @@
 ### 🧰 Tech I Work With
 
 #### 🖥️ Desktop: 
-  - 🧪 Hands-on experience with Java, Python, Qt  
+  - 🧪 Hands-on experience: Java, Python, Qt  
   - 🧩 Familiar with: C#, VB.NET
 
 #### 📱 Mobile:
