@@ -6,48 +6,40 @@
   <strong>🔧 Developer focused on functional software that solves real problems.</strong>
 </p>
 
-
 ---
-
-🎯 I build functional software solutions through desktop and mobile apps.  
-
-💡 I enjoy turning ideas into applications - from Desktop GUIs🖥️ to Android UIs📱 supported by SQL databases🗄️.
 
 🔭 Currently building personal apps and learning by doing.
 
-
 ---
 
-### 🧰 Tech I Work With
+### 🧰 Tech Experience
 
 #### 🖥️ Desktop: 
-  - 🧪 Hands-on experience: Java, Python, Qt  
-  - 🧩 Familiar with: C#, VB.NET
+  - 🧪 Java, Python, C#
+  - 🧩 .Net framework,  Qt
 
 #### 📱 Mobile:
-  - 🛠️ Developed apps using Kotlin & Jetpack Compose  
+  - 🛠️ Kotlin & Jetpack Compose  
 
 #### 🌐 Web:
-  - 🧪 Used in small projects: ASP.NET Core  
-  - 🧩 Exploring: PHP, HTML, CSS, JavaScript  
+  - 🧪 ASP.NET Core (small projects)
+  - 🧩 PHP, HTML, CSS, JavaScript  
 
 #### 🗄️ Databases:
-  - 💪 Integrated Oracle SQL and MySQL across different app projects
-  - 🧩 Light experience with SQL Server, SQLite, PostgreSQL
-
-
+  - 💪 MySQL
+  - 🧩 Familiarity with SQL Server, SQLite, PostgreSQL, and Oracle SQL
 ---
 
 ### 🧱 System Planning & Communication:
-- 🗺️ Created flowcharts and diagrams to outline app logic and database structure  
-- 🛠️ Used tools like Draw.io and PowerPoint for visual planning  
-- 🗣️ Presented ideas to team members through slides and structured documentation
-
-
+- 🗺️ Creating flowcharts and diagrams to map logic and data flow
+- 🛠️ Using tools such as Draw.io and PowerPoint for planning
+- 🗣️ Communicating ideas through documentation and presentations
 ---
 
-🌱 Currently improving my web development, SQL, database design, and diagramming skills.
-
+🌱 Currently improving:
+- Web development fundamentals
+- UI/UX Awareness
+- System Diagramming and clarity.
 
 ---
 
