@@ -29,9 +29,9 @@
 <tr>
 <td width="50%" valign="top">
 
-### ARIA
+### ### MULTI-CHANNEL AI ORCHESTRATION
 
-Multi-channel conversational AI orchestration system.
+Conversational AI system supporting web, messaging, and voice channels.
 
 <br>
 
