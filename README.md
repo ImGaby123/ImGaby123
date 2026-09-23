@@ -1,49 +1,101 @@
+
+
+<div align="center">
+<img src="./assets/Logo.svg" width="100" alt="JGP">
+
+# JOHN PLAZA
+
+**AI Systems Engineer · Solutions Architect**
+
+<sub>Building Systems For Humans.</sub>
+
+<br>
+
+<samp>AI SYSTEMS · SOFTWARE ENGINEERING · CLOUD ARCHITECTURE</samp>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### SYSTEMS
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### ARIA
+
+Multi-channel conversational AI orchestration system.
+
+<br>
+
+<samp>LANGGRAPH · RAG · FASTAPI · REDIS · QDRANT · AWS</samp>
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI CONTACT CENTER
+
+AI-powered customer interaction system built on AWS.
+
+<br>
+
+<samp>CONNECT · LEX · BEDROCK · LAMBDA · S3</samp>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### STACK
+
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+John+Plaza" alt="Typing SVG" />
+<samp>
+Python · LangGraph · LangChain · FastAPI · C# · .NET
+<br>
+AWS · Docker · PostgreSQL · Redis · Qdrant
+</samp>
 </p>
 
+---
+
+<div align="center">
+
+### BUILDING
+
+<br>
+
+<samp>An open-source AI systems project.</samp>
+
+</div>
+
+---
+
+<div align="center">
+
+### CONNECT
 <p align="center">
-  <strong>🔧 Developer focused on functional software that solves real problems.</strong>
+  <samp>
+    <a href="mailto:jgplaza.dev@gmail.com">jgplaza.dev@gmail.com</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/jgplaza/">LinkedIn</a>
+  </samp>
 </p>
 
----
+<br><br>
 
-🔭 Currently building personal apps and learning by doing.
+<sub>© John Plaza</sub>
 
----
-
-### 🧰 Tech Experience
-
-#### 🖥️ Desktop: 
-  - 🧪 Java, Python, C#
-  - 🧩 .Net framework,  Qt
-
-#### 📱 Mobile:
-  - 🛠️ Kotlin & Jetpack Compose  
-
-#### 🌐 Web:
-  - 🧪 ASP.NET Core (small projects)
-  - 🧩 PHP, HTML, CSS, JavaScript  
-
-#### 🗄️ Databases:
-  - 💪 MySQL
-  - 🧩 Familiarity with SQL Server, SQLite, PostgreSQL, and Oracle SQL
----
-
-### 🧱 System Planning & Communication:
-- 🗺️ Creating flowcharts and diagrams to map logic and data flow
-- 🛠️ Using tools such as Draw.io and PowerPoint for planning
-- 🗣️ Communicating ideas through documentation and presentations
----
-
-🌱 Currently improving:
-- Web development fundamentals
-- UI/UX Awareness
-- System Diagramming and clarity.
-
----
-
-### 📫 Reach Me At
-
-- 📧 [jgplaza.dev@gmail.com](mailto:jgplaza.dev@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jgplaza/)  
+</div>
