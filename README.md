@@ -29,7 +29,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ### MULTI-CHANNEL AI ORCHESTRATION
+### MULTI-CHANNEL AI ORCHESTRATION
 
 Conversational AI system supporting web, messaging, and voice channels.
 
